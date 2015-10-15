@@ -1,0 +1,1 @@
+C:\Perl64\bin\perl.exe triple_format_to_libfm.pl -in food.base,food.test -target 2 -separator "\t"

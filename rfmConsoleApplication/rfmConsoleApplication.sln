@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rfmConsoleApplication", "rfmConsoleApplication\rfmConsoleApplication.vcxproj", "{D2541405-40BC-455D-B7EE-632BB61EDD48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memConvertApplication", "memConvertApplication\memConvertApplication.vcxproj", "{223A6791-1A31-42DA-B55A-568DCEA2C77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2541405-40BC-455D-B7EE-632BB61EDD48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2541405-40BC-455D-B7EE-632BB61EDD48}.Debug|Win32.Build.0 = Debug|Win32
+		{D2541405-40BC-455D-B7EE-632BB61EDD48}.Release|Win32.ActiveCfg = Release|Win32
+		{D2541405-40BC-455D-B7EE-632BB61EDD48}.Release|Win32.Build.0 = Release|Win32
+		{223A6791-1A31-42DA-B55A-568DCEA2C77E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{223A6791-1A31-42DA-B55A-568DCEA2C77E}.Debug|Win32.Build.0 = Debug|Win32
+		{223A6791-1A31-42DA-B55A-568DCEA2C77E}.Release|Win32.ActiveCfg = Release|Win32
+		{223A6791-1A31-42DA-B55A-568DCEA2C77E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

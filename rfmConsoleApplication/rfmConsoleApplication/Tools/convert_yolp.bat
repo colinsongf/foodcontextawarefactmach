@@ -1,0 +1,1 @@
+perl triple_format_to_libfm.pl -in yolp.base,yolp.test -target 2 -separator "\t"
