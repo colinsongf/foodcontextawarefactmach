@@ -1,0 +1,69 @@
+Cuisine	RecipeCount
+Turkish	34
+Central American/Caribbean	203
+Israeli	27
+English/Scottish	247
+Vietnamese	100
+Ethiopian	5
+Scottish	5
+Middle Eastern	327
+South African	12
+Indian	364
+Southern Italian	23
+French	1316
+Latin American	246
+Brazilian	24
+Southern/Soul Food	299
+Korean	76
+South Asian	33
+Argentine	27
+European	154
+Sephardic	18
+Central/South American	157
+Jewish	394
+Soul Food	12
+New England	52
+Canadian	15
+Southern	321
+Australian/New Zealand	15
+North African	46
+North American	131
+Thai	215
+Californian	31
+French Provençal	56
+Moroccan	185
+Cuban	39
+Cajun/Creole	198
+Eastern European/Russian	167
+Southeast Asian	88
+Cantonese	1
+Basque	13
+Indonesian	18
+British	35
+Scandinavian	127
+Greek	287
+American	5461
+Nuevo Latino	59
+African	90
+Italian American	168
+West/Central African	3
+Pacific Northwest	13
+South American	50
+Northern Italian	28
+Italian	2159
+Irish	124
+Mexican	856
+Chinese	281
+Sushi/Sashimi	5
+German	89
+Mediterranean	444
+Japanese	183
+Midwestern	20
+East African	1
+Central Asian	3
+Asian	1287
+Szechuan/Hunan	7
+Southwestern	232
+Tex-Mex	117
+Spanish/Portuguese	359
+Ashkenazi	10

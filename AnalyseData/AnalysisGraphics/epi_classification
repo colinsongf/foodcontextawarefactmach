@@ -1,0 +1,13 @@
+Number of users:8203
+Number of items:7997
+Number of events:73468
+Number of ingredients:352
+Number of cuisine types:79
+Number of dietary groups:21
+Avg. rating value:3.38
+Avg. number of ratings per user:8.96
+Avg. number of ratings per item:9.19
+Avg. number of ingredients per item:37.89
+Avg. number of cuisine type per item:6.60
+Avg. number of dietary groups per item:5.83
+Sparsity on the ratings matrix:0.112%

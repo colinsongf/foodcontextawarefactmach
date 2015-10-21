@@ -1,0 +1,15 @@
+Diet	RecipeCount
+Low Cal	1800
+Low/No Sugar	475
+Kosher for Passover	54
+Kosher	347
+Low Cholesterol	606
+Healthy	3536
+Vegetarian	5679
+Low Carb	549
+Vegan	1708
+Low Fat	1372
+Raw	121
+High Fiber	1710
+Low Sodium	683
+Wheat/Gluten-Free	539

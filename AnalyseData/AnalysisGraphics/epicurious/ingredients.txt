@@ -1,0 +1,341 @@
+Ingredient	RecipeCount
+Cottage Cheese	44
+Butternut Squash	207
+Honeydew	43
+Truffle Oil	1
+Ham	314
+Tarragon	285
+Pecan	560
+Pork Tenderloin	133
+Grenadine	2
+Avocado	357
+Parsley	676
+Parsnip	183
+Goat Cheese	369
+Phyllo/Puff Pastry Dough	223
+Lemon Juice	122
+Cognac/Armagnac	117
+Fig	191
+Poppy	43
+Yogurt	777
+Sherry	188
+Bourbon	180
+Kumquat	50
+Blueberry	247
+Sugar Snap Pea	99
+Pumpkin	243
+Cashew	79
+Cantaloupe	65
+Bulgur	69
+Bass	109
+Hominy/Cornmeal/Masa	112
+Cardamom	44
+Herb	2179
+Nectarine	81
+Chestnut	113
+Tangerine	62
+Chocolate	1917
+White Wine	655
+Quinoa	54
+Brandy	403
+Green Bean	314
+Lamb Shank	22
+Root Vegetable	274
+Olive	776
+Collard Greens	43
+Capers	270
+Broccoli	176
+Oyster	74
+Spice	962
+Coriander	122
+Lime Juice	91
+Bell Pepper	1021
+Jam or Jelly	227
+Thyme	422
+Rabbit	20
+Pine Nut	312
+Lychee	11
+Apricot	345
+Plum	158
+Bitters	185
+Frangelico	27
+Vodka	205
+Candy	13
+Molases	181
+Tapioca	20
+Whiskey	111
+Asian Pear	22
+Tilapia	14
+Veal	192
+Hot Pepper	557
+Mussel	156
+Brown Rice	20
+Steak	331
+Condiment	89
+Ice Cream	392
+Wine	276
+Sesame Oil	24
+Coconut	484
+Rosé	8
+Kale	153
+Pomegranate Juice	9
+Lima Bean	63
+Squid	69
+Bacon	831
+Chard	115
+Honey	567
+Fennel	557
+Horseradish	210
+Currant	156
+Parmesan	947
+Quail	23
+Leafy Green	1262
+Milk/Cream	2934
+Macadamia Nut	64
+Pernod	68
+Turkey	526
+Wasabi	29
+Cilantro	690
+Beef Shank	12
+Lemon	1665
+Rutabaga	53
+Beef	1139
+Rhubarb	129
+Peanut	289
+Game Hen	60
+Walnut	688
+Plantain	38
+Melon	76
+Beer	182
+Grapefruit	163
+Beet	293
+Poblano	7
+Gin	393
+Orange	1148
+Rice	774
+Pea	332
+Bok Choy	69
+Kiwi	44
+Goose	14
+Coffee	371
+Buffalo	13
+Endive	169
+Rum	515
+Citrus	1143
+Peanut Butter	42
+Campari	25
+Squash	226
+Snapper	75
+Maple Syrup	225
+Ground Lamb	30
+Game	53
+Watermelon	107
+Pomegranate	100
+Fontina	69
+Lobster	119
+Game Meat	11
+Raspberry	470
+Clam	197
+Okra	49
+Rice/Grain	347
+Broccoli Rabe	50
+Passion Fruit	54
+Pistachio	215
+Anchovy	42
+Red Wine	363
+Berry	652
+Halibut	121
+Cornmeal	385
+Chive	307
+Egg	2916
+Poultry Sausage	24
+Sour Cream	537
+Pineapple	371
+Legume	129
+Calvados	43
+Liqueur	428
+Almond	864
+Ginger	1433
+Jalapeño	425
+Blue Cheese	322
+Lettuce	327
+Seed	173
+Turnip	131
+Tequila	120
+Tree Nut	146
+Nutmeg	170
+Lentil	162
+Guava	27
+Quince	41
+Sardine	7
+Blackberry	191
+Lamb	466
+Noodle	239
+Grape	159
+Shellfish	783
+Spinach	540
+Pear	431
+Marsala	53
+Anise	143
+Marscarpone	6
+Sausage	545
+Butter	365
+Midori	6
+Wild Rice	24
+Sweet Potato/Yam	341
+Dairy	2387
+Barley	69
+Feta	295
+Basil	753
+Ricotta	229
+Mayonnaise	490
+Vermouth	19
+Leek	354
+Zucchini	447
+Pepper	874
+Papaya	66
+Jerusalem Artichoke	25
+Pork Chop	121
+Shallot	435
+Curry	360
+Corn	568
+Green Onion/Scallion	102
+Salmon	462
+Tropical Fruit	83
+Kahlúa	37
+Garlic	2078
+Chile	86
+Apple Juice	9
+Date	152
+Swiss Cheese	95
+Tuna	187
+Watercress	210
+Mozzarella	252
+Cumin	71
+Bread	1180
+Tomato	3001
+Breadcrumbs	81
+Marshmallow	17
+Tortillas	189
+Prune	125
+Onion	2882
+Asparagus	302
+Cream Cheese	517
+Vanilla	436
+Raisin	453
+Shrimp	742
+Cinnamon	708
+Eggplant	325
+Crème de Cacao	30
+Scotch	50
+Bran	13
+Tomatillo	92
+Pork Rib	69
+Cheese	2158
+Kirsch	42
+Marzipan	1
+Champagne	186
+Cucumber	494
+Buttermilk	96
+Radish	210
+Nut	1414
+Sage	256
+Chartreuse	25
+Orange Juice	47
+Chickpea	207
+Venison	17
+Grappa	9
+Chile Pepper	195
+Duck	142
+Tofu	116
+Tamarind	37
+Gouda	16
+Fish	1308
+Brie	35
+Lime	735
+Brussel Sprout	86
+Clove	243
+Peach	296
+Swordfish	20
+Sake	40
+Cherry	403
+Rye	23
+Caviar	1
+Saffron	155
+Triple Sec	101
+Celery	385
+Couscous	124
+Oat	190
+Crab	242
+Brisket	48
+Vegetable	3015
+Grand Marnier	4
+Soy Sauce	340
+Sparkling Wine	67
+Banana	283
+Yellow Squash	41
+Trout	80
+Yuca	15
+Jícama	56
+Crème de Menthe	3
+Mustard	700
+Mushroom	1228
+Lamb Chop	54
+Mustard Greens	49
+Fruit Juice	563
+Eau de Vie	14
+Potato	1783
+Ground Beef	139
+Marscapone	94
+Beef Rib	76
+Bean	987
+Fruit	2774
+Persimmon	35
+Fortified Wine	142
+Hazelnut	316
+Pasta	1436
+Escarole	76
+Cabbage	416
+Spirit	368
+Monterey Jack	77
+Poultry	810
+Vinegar	789
+Caraway	67
+Meat	463
+Lingonberry	10
+Cauliflower	150
+Seafood	533
+Tea	141
+Chambord	18
+Oatmeal	13
+Semolina	17
+Sesame	317
+Strawberry	477
+Prosciutto	246
+Mango	313
+Octopus	16
+Cod	98
+Cranberry	494
+Radicchio	30
+Paprika	65
+Rosemary	461
+Orzo	5
+Beef Tenderloin	80
+Dill	367
+Pork	1286
+Rack of Lamb	35
+Apple	947
+Cheddar	341
+Dried Fruit	263
+Whole Wheat	51
+Arugula	375
+Scallop	250
+Carrot	897
+Artichoke	226
+Oregano	127
+Soy	174
+Chicken	1837
+Amaretto	50
+Mint	793
+Port	163
+Lemongrass	94
